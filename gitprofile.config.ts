@@ -2,13 +2,13 @@
 
 const CONFIG = {
   scratch: {
-    username: 'theyoungmaker', //TODO: Your Scratch username. (Required)
+    username: 'tym_isaac', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
-    corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/', //TODO: Enter your CORS Proxy here
+    corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/',//'https://scratchapicors-git-main-isaac-poon-zheng-haos-projects.vercel.app/', //TODO: Enter your CORS Proxy here
   },
   github: {
-    username: 'theyoungmaker', // Your GitHub org/user name. (This is the only required config)
+    username: 'isaac69892', // Your GitHub org/user name. (This is the only required config)
   },
   base: '/gitprofile',
   projects: {
@@ -49,6 +49,14 @@ const CONFIG = {
             'https://www.svg.com/img/gallery/the-original-idea-behind-space-invaders-that-could-have-changed-gaming-forever/l-intro-1608754172.jpg',
           link: 'https://makecode.microbit.org/_UXqLuYJfJRL6',
         },
+        {
+          title: 'MicroBit Safe Box',
+          description:
+            "This project features the code for the microbit safe box.It can keep your things inside and to unlock it you have to input your on passcode.",
+          imageUrl:
+            'https://www.yourdigitallock.com.sg/cdn/shop/products/20220621163343F9ZOMPAX40H78_700_1600x.jpg?v=1675664679',
+          link: 'https://makecode.microbit.org/_bzfbCmfe05wc',
+        },
       ],
     },
   },
@@ -62,7 +70,7 @@ const CONFIG = {
     facebook: '',
     instagram: '',
     tiktok: '',
-    email: '',
+    email: 'Isaac3441I@sjijunior.edu.sg',
     website: '',
     twitter: '',
     mastodon: '',
@@ -90,7 +98,6 @@ const CONFIG = {
     'Design Thinking',
     'Python',
     'Git',
-    'CSS',
     'MakeCode',
     'ScratchJr',
     'Hopscotch',
@@ -115,24 +122,17 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'MOE EDUSAVE AWARD',
+      body: 'Top 25% in cohort',
+      year: 'March 2024 and 2025',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'St Joseph Institution Junior(SJIJ)',
+      degree: 'Primary',
+      from: '2021',
+      to: '2026',
     },
   ],
   publications: [],
