@@ -8,7 +8,7 @@ const CONFIG = {
     corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/', //TODO: Enter your CORS Proxy here
   },
   github: {
-    username: 'theyoungmaker', // Your GitHub org/user name. (This is the only required config)
+    username: 'isaac69892', // Your GitHub org/user name. (This is the only required config)
   },
   base: '/gitprofile',
   projects: {
