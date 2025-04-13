@@ -2,13 +2,13 @@
 
 const CONFIG = {
   scratch: {
-    username: 'theyoungmaker', //TODO: Your Scratch username. (Required)
+    username: 'tym_isaac', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
     corsProxy: 'https://scratchapicors-8nbi5t6td-theyoungmaker.vercel.app/', //TODO: Enter your CORS Proxy here
   },
   github: {
-    username: 'theyoungmaker', // Your GitHub org/user name. (This is the only required config)
+    username: 'isaac69892', // Your GitHub org/user name. (This is the only required config)
   },
   base: '/gitprofile',
   projects: {
