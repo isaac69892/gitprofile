@@ -33,22 +33,6 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'Microbit Flappy Bird',
-          description:
-            'This project presents a Flappy Bird-inspired game designed for the Micro:bit v2 platform. It is constructed using for loops, conditional statements, functions, and lists to create an entertaining and interactive gaming experience.',
-          imageUrl:
-            'https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png',
-          link: 'https://makecode.microbit.org/_8hTHCD4ax7ty',
-        },
-        {
-          title: 'Microbit Space Invaders',
-          description:
-            "This project features a traditional Space Invaders game developed for the Microbit v2 platform. It utilizes while loops, conditional statements, variables, and the Microbit's native game coordinate system to deliver an engaging gaming experience.",
-          imageUrl:
-            'https://www.svg.com/img/gallery/the-original-idea-behind-space-invaders-that-could-have-changed-gaming-forever/l-intro-1608754172.jpg',
-          link: 'https://makecode.microbit.org/_UXqLuYJfJRL6',
-        },
       ],
     },
   },
@@ -99,40 +83,45 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
+      company: 'None, i am still a kid',
       position: 'Position',
       from: 'September 2021',
       to: 'Present',
       companyLink: 'https://example.com',
     },
-    {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
-    },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Python Beginner',
+      body: 'The Young Maker',
+      year: '2024',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Python Advance',
+      body: 'The Young Maker',
+      year: '2024',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Python Intermediate',
+      body: 'The Young Maker',
+      year: '2024',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Practical Python',
+      body: 'The Young Maker',
+      year: '2025',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'St Joseph Institution Junior',
+      degree: 'Primary School',
+      from: '2021',
+      to: '2026',
     },
   ],
   publications: [],
