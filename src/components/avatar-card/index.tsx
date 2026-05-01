@@ -89,7 +89,7 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
               download
               rel="noreferrer"
             >
-              Download Resume
+              Take a look at my Achievements
             </a>
           ))}
       </div>
